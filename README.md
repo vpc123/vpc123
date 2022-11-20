@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vpc123
 - 👀 I’m interested in cloudnative
-- 🌱 I’m currently learning serverless & AI
+- 🌱 I’m currently learning Serverless & AI
 - 💞️ I’m looking to collaborate on Cas
 - 📫 How to reach me ...
 
